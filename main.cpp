@@ -13,6 +13,7 @@ int main()
     int n,n1,AUX1,i;
     int contador=0;
     char r;
+    //abro archivo
     ofstream datos;
   string nombreArchivo;
   cout<<"INGRESA EL NOMBRE DEL ARCHIVO: ";
